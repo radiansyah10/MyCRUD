@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyCRUD</string>
+    <string name="nama">nama</string>
+    <string name="posisi">posisi</string>
+    <string name="gaji">gaji</string>
+    <string name="tambah_pegawai">tambah_pegawai</string>
+    <string name="daftar_pegawai">daftar_pegawai</string>
+    <string name="update_pegawai">update_pegawai</string>
+    <string name="hapus_pegawai">hapus_pegawai</string>
+    <string name="id_pegawai">id_pegawai</string>
+    <string name="nama_pegawai">nama_pegawai</string>
+</resources>
